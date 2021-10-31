@@ -2,5 +2,5 @@
 
 This contract incorporates an additional simple feature to distribute funds to three employees by any factor.  Not necessarily by a factor of 3. The last transaction shows a transaction of by a factor of 4.
 
-Baseline balances ![screenshot]()
+Baseline balances ![screenshot](https://github.com/oodayeshukla/HW20_First_Contract/blob/main/1_Ganache_starting_balances.png)
 
